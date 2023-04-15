@@ -18,7 +18,7 @@ const Header = () => {
             navbarScroll
           >
             <Link to="/">Home</Link>
-            <Link to="/login-form">Link</Link>
+            <Link to="/login">Link</Link>
           </Nav>
           <Button variant="primary">login</Button>
         </Navbar.Collapse>
