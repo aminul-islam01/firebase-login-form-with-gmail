@@ -20,7 +20,7 @@ const Header = () => {
             <Link to="/">Home</Link>
             <Link to="/login-form">Link</Link>
           </Nav>
-          <Button variant="outline-success">Search</Button>
+          <Button variant="primary">login</Button>
         </Navbar.Collapse>
       </Container>
     </Navbar>
